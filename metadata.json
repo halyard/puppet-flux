@@ -1,0 +1,22 @@
+{
+  "name": "halyard-flux",
+  "version": "0.0.1",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure flux via Boxen",
+  "source": "https://github.com/halyard/puppet-flux",
+  "project_page": "https://github.com/halyard/puppet-flux",
+  "issues_url": "https://github.com/halyard/puppet-flux/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
